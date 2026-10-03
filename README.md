@@ -1,3 +1,11 @@
+> **⚠️ YASAL UYARI:** Bu araç yalnızca **eğitim, yetkilendirilmiş sızma testleri ve güvenlik denetimleri** amacıyla tasarlanmıştır. Sorumluluk tamamen kullanıcıya aittir; izinsiz ağ taraması veya müdahale yasalara aykırıdır.
+
+# NetArmor - All-in-One Network Security & Reconnaissance Toolkit
+
+**NetArmor** is a modular, terminal-based security suite designed for network reconnaissance, file integrity monitoring, and ARP anomaly detection. It consolidates multiple security engines into a unified CLI tool for penetration testing, red teaming, and local network monitoring.
+
+Developed by: [ali dagdelen](https://github.com/alidagdelen)
+
 # NetArmor - All-in-One Network Security & Reconnaissance Toolkit
 
 **NetArmor** is a modular, terminal-based security suite designed for network reconnaissance, file integrity monitoring, and ARP anomaly detection. It consolidates multiple security engines into a unified CLI tool for penetration testing, red teaming, and local network monitoring.
@@ -55,3 +63,10 @@ NetArmor/
     ├── netracon.py
     ├── pathHunt.py
     └── SecSentinel.py
+> **⚠️ YASAL UYARI:** Bu araç yalnızca **eğitim, yetkilendirilmiş sızma testleri ve güvenlik denetimleri** amacıyla tasarlanmıştır. Sorumluluk tamamen kullanıcıya aittir; izinsiz ağ taraması veya müdahale yasalara aykırıdır.
+
+# NetArmor - All-in-One Network Security & Reconnaissance Toolkit
+
+**NetArmor** is a modular, terminal-based security suite designed for network reconnaissance, file integrity monitoring, and ARP anomaly detection. It consolidates multiple security engines into a unified CLI tool for penetration testing, red teaming, and local network monitoring.
+
+Developed by: [ali dagdelen](https://github.com/alidagdelen)
